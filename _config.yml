@@ -1,4 +1,6 @@
 <!DOCTYPE html>
+show_downloads: true
+theme: jekyll-theme-minimal
 <html lang="en">
 <head>
     <meta charset="UTF-8">
